@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png", DAZN LA LIGA
@@ -180,3 +181,6 @@ acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png", Barça HD
 acestream://65c141632af256d70da66c767ba74360042b4396
+=======
+Prueba
+>>>>>>> a91551bf535aabf5c76a9b586ed8cf50d7038957
